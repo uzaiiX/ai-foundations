@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+# Jupyter
+.ipynb_checkpoints/
+# Data and model files (keep large files out of Git)
+data/
+*.npz
+*.pt
+# Coverage
+.coverage
+htmlcov/
